@@ -6,7 +6,7 @@
 
 main {
     min-height: 80vh;
-    background: url('/img/bg-hero-desktop.svg')hsl(193, 100%, 96%);
+    background: url('../img/bg-hero-desktop.svg')hsl(193, 100%, 96%);
     font-family: Arial, Helvetica, sans-serif;
     margin-bottom: 100px;
 }
@@ -85,7 +85,7 @@ header {
 }
 
 .second-hero-content {
-    background: url('/img/illustration-mockups.svg') ;
+    background: url('../img/illustration-mockups.svg') ;
     background-repeat: no-repeat;
     background-size: contain;
     width: 50%;
@@ -128,7 +128,7 @@ header {
 .img-card {
     width: 50%;
     min-height: 250px;
-    background: url('/img/illustration-grow-together.svg');
+    background: url('../img/illustration-grow-together.svg');
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
@@ -241,7 +241,7 @@ footer .footer-logo img{
     
     main {
         background-size: contain;
-        background: url('./img/bg-hero-mobile.svg') hsl(193, 100%, 96%);
+        background: url('../img/bg-hero-mobile.svg') hsl(193, 100%, 96%);
         background-position: top;
         background-repeat: no-repeat;
     }

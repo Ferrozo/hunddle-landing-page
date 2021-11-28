@@ -6,7 +6,7 @@
 
 main {
     min-height: 80vh;
-    background: url('../img/bg-hero-desktop.svg')hsl(193, 100%, 96%);
+    background: url("../img/bg-hero-desktop.svg"),hsl(193, 100%, 96%);
     font-family: Arial, Helvetica, sans-serif;
     margin-bottom: 100px;
 }
@@ -241,7 +241,7 @@ footer .footer-logo img{
     
     main {
         background-size: contain;
-        background: url("../img/bg-hero-mobile.svg") hsl(193, 100%, 96%);
+        background: url("../img/bg-hero-mobile.svg"), hsl(193, 100%, 96%);
         background-position: top;
         background-repeat: no-repeat;
     }
